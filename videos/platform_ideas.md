@@ -7,3 +7,5 @@
 - [x] Jump back/forward
 - [x] Remember last watched
 - [ ] 360° video experience
+- [x] 360° audio experience
+- [x] Integration with Magic Mac
